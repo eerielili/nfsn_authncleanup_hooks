@@ -6,11 +6,11 @@ Don't forget to edit the user, api key and account id variable.
 
 `$USER`: The username for your [nearlyfreespeech.net](https://nearlyfreespeech.net/) account.
 
-`$API_KEY`: The API key needed to make requests on their backend. You can request it through [here](https://members.nearlyfreespeech.net/lilim/support/request).
+`$API_KEY`: The API key needed to make requests on their backend. You can request it through [here](https://members.nearlyfreespeech.net/user/support/request).
 
 `$ACCOUNT_ID`: The account id tied to the registered domain name
 (a string like A1B2-C3D4E5F6). You'll find it
-[there](https://members.nearlyfreespeech.net/lilim/domains), column
+[there](https://members.nearlyfreespeech.net/user/domains), column
 'Account'.
 
 # EXAMPLES
