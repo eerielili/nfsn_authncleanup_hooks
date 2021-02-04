@@ -46,4 +46,4 @@ if ( $nfsn_err =~ /^([\w0-9])$/ ){
 else{
     print "\nThe DNS records have been updated.\n";
 }
-sleep 15
+sleep 15;
