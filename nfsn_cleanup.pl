@@ -2,7 +2,7 @@
 use warnings;
 use strict;
 use WebService::NFSN;
-print "nfsn_auth.pl, Copyright (C) 2020 Miquel Lionel";
+print "nfsn_cleanup.pl, Copyright (C) 2020 Miquel Lionel";
 
 ###vvvEDIT THISvvv###
 my $USER = 'username';
